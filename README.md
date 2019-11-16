@@ -1,4 +1,9 @@
-# Setup & RUN
-```
+# Setup
+```shell
 $ npm install
+```
+
+# Run
+```shell
+$ node run.js
 ```
