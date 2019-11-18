@@ -7,3 +7,7 @@ $ npm install
 ```shell
 $ node run.js
 ```
+
+# Other Examples:
+
+* [Imager & Webpack (vanilla or no plugins)](https://github.com/imager-io/webpack-imager-example-vanilla)
